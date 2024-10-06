@@ -1,0 +1,53 @@
+/* src/ViewMoreDetails.css */
+.shoe-details {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .shoe-details h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .shoe-details img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .shoe-details p {
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  .shoe-details h3 {
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .shoe-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .shoe-details ul li {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  .shoe-details ul li.no-options {
+    color: #999;
+    text-align: center;
+  }
+  

@@ -1,0 +1,26 @@
+.card__actions {
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    width: 100%; /* Full width of the card */
+    margin-top: 10px; /* Add some spacing above */
+  }
+  
+  .card__button {
+    padding: 10px 0; /* Vertical padding */
+    border-radius: 5px; /* Rounded corners */
+    border: none; /* Remove default button border */
+    color: white; /* Text color */
+    cursor: pointer; /* Pointer on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+    width: 100%; /* Full width */
+  }
+  
+  .card__button--buy {
+    background-color: #28a745; /* Green for Buy Now */
+    margin-bottom: 10px; /* Spacing between buttons */
+  }
+  
+  .card__button--view {
+    background-color: #007bff; /* Blue for View */
+  }
+  

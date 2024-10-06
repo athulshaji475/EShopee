@@ -1,0 +1,51 @@
+{
+    "ShoesData":[{
+        "Key":1,
+        "Name":"Air",
+        "Price":1000,
+        "Discount":100,
+        "ImgUrl":"https://i.postimg.cc/8PkwdTYd/image.png",
+        "description": "A comfortable and stylish shoe perfect for any occasion.",
+         "sizeOptions": ["6", "7", "8", "9", "10"],
+         "material": "Synthetic",
+        "rating": "4.5/5"
+    },
+    {
+        "Key":2,
+        "Name":"AIR ZOOM PEGASUS",
+        "Price":990.00,
+        "Discount":749.00,
+        "ImgUrl":"https://i.postimg.cc/4dBHXR1Z/image.png"
+        
+    },
+    {
+        "Key":3,
+        "Name":"Air1",
+        "Price":1000,
+        "Discount":100,
+        "ImgUrl":"https://i.postimg.cc/8PkwdTYd/image.png"
+    },
+    {
+        "Key":4,
+        "Name":"Air2",
+        "Price":1000,
+        "Discount":100,
+        "ImgUrl":"https://i.postimg.cc/8PkwdTYd/image.png"
+    }
+    ,{
+        "Key":5,
+        "Name":"Air3",
+        "Price":1000,
+        "Discount":100,
+        "ImgUrl":"https://i.postimg.cc/8PkwdTYd/image.png"
+    }
+    ,
+    {
+        "Key":6,
+        "Name":"Air4",
+        "Price":1000,
+        "Discount":100,
+        "ImgUrl":"https://i.postimg.cc/8PkwdTYd/image.png"
+    }
+]
+}
